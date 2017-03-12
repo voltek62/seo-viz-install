@@ -1,0 +1,12 @@
+LeMis                   Les Miserables Character Coappearance Data
+cityOutput              Shiny bindings for threejs widgets
+ego                     Facebook social circles
+flights                 Global flight example data from Callum
+                        Prentice.
+globejs                 Plot Data on 3D Globes
+graphjs                 Interactive 3D Graph Visualization
+scatterplot3js          Interactive 3D Scatterplots
+texture                 Convert an image file or uri to a three.js
+                        texture
+threejs-package         Interactive 3D graphics including point clouds
+                        and globes using three.js and htmlwidgets.
